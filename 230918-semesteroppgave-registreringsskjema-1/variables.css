@@ -1,0 +1,15 @@
+:root{
+	--font-family-primary: 'Inter';
+	--font-size-base: 16px;
+	--font-size-small: 0.8rem;
+	--font-size-medium: 1.25rem;
+	--font-size-large: 2.5rem;
+	--font-line-height-base: 1rem;
+
+	--border-size: 0.1rem;
+	--border-size-large: 0.3rem;
+
+	--spacing-small: 0.5rem;
+	--spacing-medium: 2rem;
+	--spacing-large: 2rem;
+}
